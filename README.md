@@ -29,6 +29,7 @@
   Achieved the **86% accuracy R2 score** at Gradient Boosting Algorithm.
 - Conducted comprehensive data collection, cleaning, and preprocessing, applying statistical techniques and
   ML algorithms to enhance the accuracy of insurance premium predictions.
+  
   ![Insurance Premium Prediction](https://github.com/KIRTIBAJAJ2002/portfolio/blob/main/Insurance%20Premium.jpeg?raw=true)
 
 
