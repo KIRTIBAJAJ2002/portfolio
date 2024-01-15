@@ -1,10 +1,10 @@
 # Data Scientist
--Organised,detail-oriented individual with hands on experince as  Junior financial Analyst & Data Science Internship project.
- Skilled at Finance,data analysing and cleaning using various Tech Stack.
+  Organised,detail-oriented individual with hands on experince as  Junior financial Analyst & Data Science Internship project.
+  Skilled at Finance,data analysing and cleaning using various Tech Stack
 
 ## Skills:
-- Python (Pandas | Numpy | Matlab| Seaborn| Scikit)
-- Database (MYSQL)
+- Python|Pandas | Numpy | Matlab| Seaborn| Scikit
+- Database(MYSQL)
 - Machine Learning and NLP
 - Statistics & Probability, Docker, MLops
 - Power BI,MS-Excel,Word
@@ -15,12 +15,12 @@
 - Conducted comprehensive **financial analysis**, extracting critical insights from balance sheets, income
   statements, and cash flow statements.
 - Spearheaded stock audits, ensuring data accuracy and integrity, and promptly **addressing discrepancies** &
-- Executed vouching of invoices and meticulous **financial audits**.
+- Executed vouching of invoices and meticulous **financial audits**
 
 **Freelancer @ Upwork & Fiverr(Remote) (_03/2023-Present_)**
 - Collaborated with clients for **data analysis**, leveraging **Python, pandas, Matplotlib, and Power BI** to deliver
   actionable insights.
-- Executed projects involving **data cleaning, preprocessing, and statistical techniques**.
+- Executed projects involving **data cleaning, preprocessing, and statistical techniques**
 
 **Data Scientist Intern, Ineuron.ai (_04/2023 -07/2023_)**
 - Project title: Insurance Premium Prediction[Project Link](https://github.com/KIRTIBAJAJ2002/KIRTIINTERNSHIPPROJECT)
