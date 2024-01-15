@@ -50,7 +50,7 @@ diamond prices.
 model training to achieve the highest accuracy fit for the model.
 - Tech used:pandas ,numpy,flask,seaborn,Scikit-learn,Docker,AWS(EC2),Linear Regression.
 
-![Diamond Price Prediction](/assets/img/bike_study.jpeg)
+![Diamond Price Prediction](https://github.com/KIRTIBAJAJ2002/portfolio/blob/main/Diamond.jpg?raw=true)
 
 ## Education
 - Masters of Commerce(Shivaji University ,Kolhapur,Distance mode)(_2022-2024_)
