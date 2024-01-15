@@ -2,7 +2,7 @@
 -Organised,detail-oriented individual with hands on experince as  Junior financial Analyst & Data Science Internship project.
  Skilled at Finance,data analysing and cleaning using various Tech Stack.
 
-#### Skills:
+#### Skills
 - Python (Pandas | Numpy | Matlab| Seaborn| Scikit)
 - Database (MYSQL)
 - Machine Learning and NLP
@@ -50,7 +50,7 @@ diamond prices.
 model training to achieve the highest accuracy fit for the model.
 - Tech used:pandas ,numpy,flask,seaborn,Scikit-learn,Docker,AWS(EC2),Linear Regression.
 
-![Diamond Price Prediction](https://github.com/KIRTIBAJAJ2002/portfolio/blob/main/Diamond.jpg?raw=true|width=10,height=10) 
+![Diamond Price Prediction](https://github.com/KIRTIBAJAJ2002/portfolio/blob/main/Diamond.jpg?raw=true) 
 
 ## Education
 - Masters of Commerce(Shivaji University ,Kolhapur,Distance mode)(_2022-2024_)
