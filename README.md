@@ -1,9 +1,9 @@
 # Data Scientist
   Organised,detail-oriented individual with hands on experince as  Junior financial Analyst & Data Science Internship project.
-  Skilled at Finance,data analysing and cleaning using various Tech Stack
+  Skilled at Finance,data analysing and cleaning using various Tech Stack.
 
 ## Skills:
-- Python|Pandas | Numpy | Matlab| Seaborn| Scikit
+- Python(Pandas,Numpy,Matlab,Seaborn,Scikit)
 - Database(MYSQL)
 - Machine Learning and NLP
 - Statistics & Probability, Docker, MLops
@@ -23,7 +23,7 @@
 - Executed projects involving **data cleaning, preprocessing, and statistical techniques**
 
 **Data Scientist Intern, Ineuron.ai (_04/2023 -07/2023_)**
-- Project title: Insurance Premium Prediction[Project Link](https://github.com/KIRTIBAJAJ2002/KIRTIINTERNSHIPPROJECT)
+- Project title: Insurance Premium Prediction [Project Link](https://github.com/KIRTIBAJAJ2002/KIRTIINTERNSHIPPROJECT)
 - Developed a robust machine learning system predicting insurance premiums, leveraging various features and
   technologies such as **VSCode,EDA, Docker, AWS, and Gradient Boosting** for project implementation &
   Achieved the **86% accuracy R2 score** at Gradient Boosting Algorithm.
@@ -32,8 +32,7 @@
 
 
 ## Projects
-### Web Scraping 
-[Project Link](https://github.com/KIRTIBAJAJ2002/Project1-Scraper-beanstalk-deployment)
+### Web Scraping  [Project Link](https://github.com/KIRTIBAJAJ2002/Project1-Scraper-beanstalk-deployment)
 
 Successfully managed Web Scraping of the Flipkart website using **Requests, BS4, Python, and Flask**.Extracted
 the list of reviews for any product that is to be displayed.
@@ -41,8 +40,7 @@ Tech Used:Requests,BS4,Python,Flask.
 
 ![Web Scraping](https://github.com/KIRTIBAJAJ2002/portfolio/blob/main/webscraping.png?raw=true)
 
-### Diamond Price Prediction
-[Project Link](https://github.com/KIRTIBAJAJ2002/Diamondpriceprediction-ML-project)
+### Diamond Price Prediction  [Project Link](https://github.com/KIRTIBAJAJ2002/Diamondpriceprediction-ML-project)
 
 - Employed ML algorithms, Docker, AWS, and **Linear Regression to achieve a 93% R2 score** in predicting
 diamond prices.
