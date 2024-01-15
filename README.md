@@ -2,7 +2,7 @@
 -Organised,detail-oriented individual with hands on experince as  Junior financial Analyst & Data Science Internship project.
  Skilled at Finance,data analysing and cleaning using various Tech Stack.
 
-#### Skills:
+## Skills:
 - Python (Pandas | Numpy | Matlab| Seaborn| Scikit)
 - Database (MYSQL)
 - Machine Learning and NLP
