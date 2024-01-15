@@ -32,7 +32,7 @@
 
 
 ## Projects
-### Web Scraping
+### Web Scraping 
 [Project Link](https://github.com/KIRTIBAJAJ2002/Project1-Scraper-beanstalk-deployment)
 
 Successfully managed Web Scraping of the Flipkart website using **Requests, BS4, Python, and Flask**.Extracted
