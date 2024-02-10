@@ -34,7 +34,13 @@
 
 
 ## Projects
-### Web Scraping  [Project Link](https://github.com/KIRTIBAJAJ2002/Project1-Scraper-beanstalk-deployment)
+### Text Summarization  [Project Link](https://github.com/KIRTIBAJAJ2002/Project1-Scraper-beanstalk-deployment)
+
+I developed a robust system capable of automatically generating concise summaries from large volumes of text. This project involved data preprocessing, feature engineering, and the implementation of advanced NLP algorithms, including sequence-to-sequence models and transformer architectures. I conducted rigorous evaluations using established metrics such as ROUGE and BLEU to assess the quality of the generated summaries. Through this project
+Tech Used:TensorFlow,NLTK,.
+
+![Web Scraping](https://github.com/KIRTIBAJAJ2002/portfolio/blob/main/webscraping.png?raw=true)
+### Web Scraping    [Project Link](https://github.com/KIRTIBAJAJ2002/Project1-Scraper-beanstalk-deployment)
 
 Successfully managed Web Scraping of the Flipkart website using **Requests, BS4, Python, and Flask**.Extracted
 the list of reviews for any product that is to be displayed.
@@ -42,7 +48,7 @@ Tech Used:Requests,BS4,Python,Flask.
 
 ![Web Scraping](https://github.com/KIRTIBAJAJ2002/portfolio/blob/main/webscraping.png?raw=true)
 
-### Diamond Price Prediction  [Project Link](https://github.com/KIRTIBAJAJ2002/Diamondpriceprediction-ML-project)
+### Diamond Price Prediction   [Project Link](https://github.com/KIRTIBAJAJ2002/Diamondpriceprediction-ML-project)
 
 - Employed ML algorithms, Docker, AWS, and **Linear Regression to achieve a 93% R2 score** in predicting
 diamond prices.
