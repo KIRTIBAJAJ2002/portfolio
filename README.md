@@ -36,7 +36,7 @@
 ## Projects
 ### Text Summarization  [Project Link](https://github.com/KIRTIBAJAJ2002/Project1-Scraper-beanstalk-deployment)
 
-I developed a robust system capable of automatically generating concise summaries from large volumes of text. This project involved data preprocessing, feature engineering, and the implementation of advanced NLP algorithms, including sequence-to-sequence models and transformer architectures. I conducted rigorous evaluations using established metrics such as ROUGE and BLEU to assess the quality of the generated summaries. Through this project
+I developed a robust system capable of automatically generating **concise summaries from large volumes of text**. This project involved data preprocessing, feature engineering, and the implementation of advanced NLP algorithms, including sequence-to-sequence models and transformer architectures. I conducted rigorous evaluations using established **metrics such as ROUGE and BLEU**to assess the quality of the generated summaries.
 Tech Used:TensorFlow,NLTK,.
 
 ![Text Summarization](https://github.com/KIRTIBAJAJ2002/portfolio/blob/main/Text%20Summary.webp?raw=true)
