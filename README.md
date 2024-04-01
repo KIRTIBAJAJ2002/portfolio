@@ -11,18 +11,10 @@
 - Finance,Accounting								       	
 
 ## Work Experience
-**Junior Financial Analyst @ P Maloo & Associates(CA Firm) (_07/2022-08/2023_)**
-- Conducted comprehensive **financial analysis**, extracting critical insights from balance sheets, income
-  statements, and cash flow statements.
-- Spearheaded stock audits, ensuring data accuracy and integrity, and promptly **addressing discrepancies** &
-- Executed vouching of invoices and meticulous **financial audits**
+**Full Stack Software Development Intern @ Biyani Technologies PVT LTD (_04/2024-Present)**
+- 
 
-**Freelancer @ Upwork & Fiverr(Remote) (_03/2023-Present_)**
-- Collaborated with clients for **data analysis**, leveraging **Python, pandas, Matplotlib, and Power BI** to deliver
-  actionable insights.
-- Executed projects involving **data cleaning, preprocessing, and statistical techniques**
-
-**Data Scientist Intern, Ineuron.ai (_04/2023 -07/2023_)**
+**Machine Learning Apprenticeship, PhysicsWallah (_04/2023 -07/2023_)**
 - Project title: Insurance Premium Prediction [Project Link](https://github.com/KIRTIBAJAJ2002/KIRTIINTERNSHIPPROJECT)
 - Developed a robust machine learning system predicting insurance premiums, leveraging various features and
   technologies such as **VSCode,EDA, Docker, AWS, and Gradient Boosting** for project implementation &
@@ -32,8 +24,24 @@
   
   ![Insurance Premium Prediction](https://github.com/KIRTIBAJAJ2002/portfolio/blob/main/Insurance%20Premium.jpeg?raw=true)
 
+**Freelancer @ Upwork & Fiverr(Remote) (_03/2023-Present_)**
+- Collaborated with clients for **data analysis**, leveraging **Python, pandas, Matplotlib, and Power BI** to deliver
+  actionable insights.
+- Executed projects involving **data cleaning, preprocessing, and statistical techniques**
+
+**Junior Financial Analyst @ P Maloo & Associates(CA Firm) (_07/2022-08/2023_)**
+- Conducted comprehensive **financial analysis**, extracting critical insights from balance sheets, income
+  statements, and cash flow statements.
+- Spearheaded stock audits, ensuring data accuracy and integrity, and promptly **addressing discrepancies** &
+- Executed vouching of invoices and meticulous **financial audits**
 
 ## Projects
+### Web Portfolio Web Developer:(Ongoing)  [Project Link](https://github.com/Keshav15/portfolio_app)
+
+The script sends resume details to the LLM model which converts the resume info into Json format, saves formatted data to a new file, and in the backend, a JSON file will be deployed and secretly creates the repo and then generates a deployed Portfolio link for the user.
+Tech Used:Streamlit/AWS Lambda,LangChain,Fast API,API,Tensorflow
+
+
 ### Text Summarization  [Project Link](https://github.com/KIRTIBAJAJ2002/Project1-Scraper-beanstalk-deployment)
 
 I developed a robust system capable of automatically generating **concise summaries from large volumes of text**. This project involved data preprocessing, feature engineering, and the implementation of advanced NLP algorithms, including sequence-to-sequence models and transformer architectures. I conducted rigorous evaluations using established **metrics such as ROUGE and BLEU**to assess the quality of the generated summaries.
