@@ -12,7 +12,7 @@
 
 ## Work Experience
 **Full Stack Software Development Intern @ Biyani Technologies PVT LTD (_04/2024-Present)**
-- 
+- Developing the App which are used for the Schools and colleges for teaching the students.
 
 **Machine Learning Apprenticeship, PhysicsWallah (_04/2023 -07/2023_)**
 - Project title: Insurance Premium Prediction [Project Link](https://github.com/KIRTIBAJAJ2002/KIRTIINTERNSHIPPROJECT)
